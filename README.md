@@ -129,5 +129,5 @@ The project meets all evaluation criteria by integrating animation, shading, par
 ---
 
 ## 👤 Author
-**Valentin Kitsonov**
+**Dragomir Vemkov and Valentin Kitsonov**
 PPGSO — Final Project
