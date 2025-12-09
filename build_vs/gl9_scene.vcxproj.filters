@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\gl9_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\asteroid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\projectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\explosion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\gl9_scene\space.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AABB26FD-DE60-3EC9-BD54-7EE79EC6916F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

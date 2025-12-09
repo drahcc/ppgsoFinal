@@ -1,0 +1,21 @@
+# Simple Quad/Plane mesh for ground/background
+# 4 vertices, 2 triangles
+
+# Vertices (XYZ) - large plane
+v -50.000000 0.000000 -50.000000
+v 50.000000 0.000000 -50.000000
+v 50.000000 0.000000 50.000000
+v -50.000000 0.000000 50.000000
+
+# Texture coordinates (UV) - tiled
+vt 0.000000 0.000000
+vt 10.000000 0.000000
+vt 10.000000 10.000000
+vt 0.000000 10.000000
+
+# Normals (pointing up)
+vn 0.000000 1.000000 0.000000
+
+# Faces (2 triangles forming a quad)
+f 1/1/1 2/2/1 3/3/1
+f 1/1/1 3/3/1 4/4/1

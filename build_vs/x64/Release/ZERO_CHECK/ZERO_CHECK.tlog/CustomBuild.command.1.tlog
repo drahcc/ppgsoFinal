@@ -1,0 +1,10 @@
+^C:\USERS\PC NITRO INTEL\DESKTOP\PPGSOFINAL\BUILD_VS\CMAKEFILES\F3C457A5F58362D8484723AA1AA2D578\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/PC NITRO INTEL/Desktop/ppgsoFinal" "-BC:/Users/PC NITRO INTEL/Desktop/ppgsoFinal/build_vs" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/PC NITRO INTEL/Desktop/ppgsoFinal/build_vs/ppgso.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

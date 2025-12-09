@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\color_vert_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\color_frag_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\convolution_vert_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\convolution_frag_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\diffuse_vert_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\diffuse_frag_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\texture_vert_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\texture_frag_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\underwater_vert_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\underwater_frag_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\water_vert_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\water_frag_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\skybox_vert_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\skybox_frag_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\postprocess_vert_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\shaders\postprocess_frag_glsl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\color_vert_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\color_frag_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\convolution_vert_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\convolution_frag_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\diffuse_vert_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\diffuse_frag_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\texture_vert_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\texture_frag_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\underwater_vert_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\underwater_frag_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\water_vert_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\water_frag_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\skybox_vert_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\skybox_frag_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\postprocess_vert_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\build_vs\CMakeFiles\824cf3cdbc80245c951c957736132d73\postprocess_frag_glsl.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC NITRO INTEL\Desktop\ppgsoFinal\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A1D06D8F-A8F7-3FB0-A2F4-9FFA40E25810}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AABB26FD-DE60-3EC9-BD54-7EE79EC6916F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
